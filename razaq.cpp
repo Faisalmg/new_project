@@ -17,7 +17,7 @@ int main()
   printf("\n");
   sleep(2);
   while (x <= 5) {
-      printf ("%i    ", x);
+      printf ("%i     ", x);
       sleep(1);
       x++;
   };
